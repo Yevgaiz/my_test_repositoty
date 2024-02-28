@@ -1,0 +1,67 @@
+body {
+    background-image: url("../img/Background.jpg");
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo > img {
+    width: 150px;
+    border-radius: 75px;
+}
+
+.tittle {
+    text-align: center;
+    color: #237ADD;
+}
+
+.pages {
+    text-align: center;
+}
+
+.pages > strong {
+
+    color: #237ADD;
+    font-size: 25px;
+}
+
+.pages > a {
+    color: #237ADD;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 30px 0 30px;
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.phone_names {
+    color: #100DC2;
+}
+#nokia{
+    width: 200px;
+}
+#siemens{
+    width: 200px;
+}
+#ericsson{
+   width: 200px;
+}
+.footer{
+    text-align: center;
+    padding-top: 15%;
+    font-weight: bold;
+}
+.footer > a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #100DC2;
+    padding-left: 15px;
+}
+
+
